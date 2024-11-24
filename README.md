@@ -1,5 +1,3 @@
-Here’s a suggestion for your GitHub project description:  
-
 ---
 
 # **My First Console-Based Java Game**
